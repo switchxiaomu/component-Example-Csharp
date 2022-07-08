@@ -1,0 +1,7 @@
+C:\Users\Klarity\source\repos\RegularNumberInString\RegularNumberInString\bin\Debug\RegularNumberInString.exe.config
+C:\Users\Klarity\source\repos\RegularNumberInString\RegularNumberInString\bin\Debug\RegularNumberInString.exe
+C:\Users\Klarity\source\repos\RegularNumberInString\RegularNumberInString\bin\Debug\RegularNumberInString.pdb
+C:\Users\Klarity\source\repos\RegularNumberInString\RegularNumberInString\obj\Debug\RegularNumberInString.csproj.AssemblyReference.cache
+C:\Users\Klarity\source\repos\RegularNumberInString\RegularNumberInString\obj\Debug\RegularNumberInString.csproj.CoreCompileInputs.cache
+C:\Users\Klarity\source\repos\RegularNumberInString\RegularNumberInString\obj\Debug\RegularNumberInString.exe
+C:\Users\Klarity\source\repos\RegularNumberInString\RegularNumberInString\obj\Debug\RegularNumberInString.pdb
