@@ -1,0 +1,7 @@
+C:\Users\Klarity\source\repos\DebuggerNonUserCode\DebuggerNonUserCode\bin\Debug\DebuggerNonUserCode.exe.config
+C:\Users\Klarity\source\repos\DebuggerNonUserCode\DebuggerNonUserCode\bin\Debug\DebuggerNonUserCode.exe
+C:\Users\Klarity\source\repos\DebuggerNonUserCode\DebuggerNonUserCode\bin\Debug\DebuggerNonUserCode.pdb
+C:\Users\Klarity\source\repos\DebuggerNonUserCode\DebuggerNonUserCode\obj\Debug\DebuggerNonUserCode.csproj.AssemblyReference.cache
+C:\Users\Klarity\source\repos\DebuggerNonUserCode\DebuggerNonUserCode\obj\Debug\DebuggerNonUserCode.csproj.CoreCompileInputs.cache
+C:\Users\Klarity\source\repos\DebuggerNonUserCode\DebuggerNonUserCode\obj\Debug\DebuggerNonUserCode.exe
+C:\Users\Klarity\source\repos\DebuggerNonUserCode\DebuggerNonUserCode\obj\Debug\DebuggerNonUserCode.pdb
