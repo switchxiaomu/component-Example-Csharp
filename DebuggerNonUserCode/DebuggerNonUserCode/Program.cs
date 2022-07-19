@@ -21,8 +21,10 @@ namespace DebuggerNonUserCode
             boo();
         }
 
-        //DebuggerNonUserCode属性为了避免断点调试进入你不感兴趣的代码块中
-        [DebuggerNonUserCode]
+        //DebuggerNonUserCode属性为了避免断点调试进入你不感兴趣的代码块中，堆栈中心显示为外部代码
+        //[DebuggerNonUserCode]
+        //DebuggerHidden属性甚至堆栈中都不显示
+        [DebuggerHidden]
         private static void boo()
         {
             Console.WriteLine("Hi");

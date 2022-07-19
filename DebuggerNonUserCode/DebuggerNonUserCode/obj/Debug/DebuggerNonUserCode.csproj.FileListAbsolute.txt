@@ -5,3 +5,10 @@ C:\Users\Klarity\source\repos\DebuggerNonUserCode\DebuggerNonUserCode\obj\Debug\
 C:\Users\Klarity\source\repos\DebuggerNonUserCode\DebuggerNonUserCode\obj\Debug\DebuggerNonUserCode.csproj.CoreCompileInputs.cache
 C:\Users\Klarity\source\repos\DebuggerNonUserCode\DebuggerNonUserCode\obj\Debug\DebuggerNonUserCode.exe
 C:\Users\Klarity\source\repos\DebuggerNonUserCode\DebuggerNonUserCode\obj\Debug\DebuggerNonUserCode.pdb
+E:\component-Example-Csharp\DebuggerNonUserCode\DebuggerNonUserCode\bin\Debug\DebuggerNonUserCode.exe.config
+E:\component-Example-Csharp\DebuggerNonUserCode\DebuggerNonUserCode\bin\Debug\DebuggerNonUserCode.exe
+E:\component-Example-Csharp\DebuggerNonUserCode\DebuggerNonUserCode\bin\Debug\DebuggerNonUserCode.pdb
+E:\component-Example-Csharp\DebuggerNonUserCode\DebuggerNonUserCode\obj\Debug\DebuggerNonUserCode.csproj.AssemblyReference.cache
+E:\component-Example-Csharp\DebuggerNonUserCode\DebuggerNonUserCode\obj\Debug\DebuggerNonUserCode.csproj.CoreCompileInputs.cache
+E:\component-Example-Csharp\DebuggerNonUserCode\DebuggerNonUserCode\obj\Debug\DebuggerNonUserCode.exe
+E:\component-Example-Csharp\DebuggerNonUserCode\DebuggerNonUserCode\obj\Debug\DebuggerNonUserCode.pdb
